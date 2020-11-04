@@ -17,3 +17,5 @@
 
 
 [урок 15 анимация](https://oleg7171.github.io/lesson_15/ "img_button")- работа с репозиторием на GitHub
+
+[практический урок 3](https://oleg7171.github.io/lesson_16/ "Адоптация")- работа с репозиторием на GitHub
