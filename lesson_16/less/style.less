@@ -83,6 +83,16 @@ section {
     padding: 10rem 0;
 }
 
+.section-header {
+	margin-top: 3rem;
+	margin-bottom: 9rem;
+	.bold();
+	font-size: 3.6rem;
+	text-align: center;
+}
+
+
+
 /* main */
 .main {
 	padding: 3rem 0 5rem;
@@ -197,6 +207,55 @@ section {
 	line-height: 7rem;
 	color: @text;
 }
+}
+
+/*Оформление секции с пеимуществами*/
+
+.features {
+	&-block {
+		text-align: center;
+		h3 {
+			.bold();
+			font-size: 2rem;
+			margin-bottom: 2.2rem;
+		}
+		p {
+			display: inline-block;
+			font-size: 1.4rem;
+			width: 80%;
+		}
+	}
+	&-img {
+		height: 8rem;
+		margin-bottom: 3rem;
+		img {
+			display: block;
+			margin: 0 auto;
+		}
+	}
+}
+.slick-active {
+	outline: none;
+}
+
+.arrow {
+	top: 50%;
+	transform: translateY(-50%);
+	position: absolute;
+	z-index: 99;
+	width: 2rem;
+	height: 2rem;
+	border: none;
+}
+.prev {
+	left: 0;
+	background: url(../img/left-arrow.svg) center no-repeat;
+	background-size: 70%;
+}
+.next {
+	right: 0;
+	background: url(../img/right-arrow.svg) center no-repeat;
+	background-size: 70%;
 }
 
 @media (max-width: 991px) {
