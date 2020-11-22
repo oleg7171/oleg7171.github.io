@@ -20,4 +20,4 @@
 
 [практический урок 3](https://oleg7171.github.io/lesson_16/ "Адоптация")- работа с репозиторием на GitHub
 
-[урок 16 анимация](https://github.com/oleg7171/oleg7171.github.io "img_slide")- работа с репозиторием на GitHub
+[урок 16 анимация](https://oleg7171.github.io/lesson%2016%20%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D0%B5%D1%80%D1%8B/ "img_slide")- работа с репозиторием на GitHub
