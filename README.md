@@ -24,3 +24,5 @@
 
 
 [практический урок 4](https://oleg7171.github.io/lesson_16/ "feature")- работа с репозиторием на GitHub
+
+[pop-ap урок 17](https://oleg7171.github.io/lesson%2017%20pop-up/#header/ "pop-ap")- работа с репозиторием на GitHub
