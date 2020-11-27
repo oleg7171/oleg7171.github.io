@@ -27,4 +27,4 @@
 
 [pop-up урок 17](https://oleg7171.github.io/lesson%2017%20pop-up/#header/ "pop-up")- работа с репозиторием на GitHub
 
-[практический урок 5](https://oleg7171.github.io/lesson_16/ "pop-up")- работа с репозиторием на GitHub
+[практический урок 5](https://oleg7171.github.io/lesson_17/ "pop-up")- работа с репозиторием на GitHub
